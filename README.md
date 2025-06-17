@@ -1,4 +1,5 @@
 # QPU-Performance-Engineer-Intern
+Quatum Hardware Characterisation and Laser System Calibration: 
 Report on my work during my 2-month internship in Pasqal, Paris, as a QPU Performance Engineer.
 
 ◦ Wrote a revision on the experimental setup that conforms a Quantum Processor Unit (QPU) based on neutral atoms of 87Rb.
